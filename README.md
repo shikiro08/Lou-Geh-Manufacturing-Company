@@ -1,2 +1,2 @@
 # Lou-Geh-Manufacturing-Company
-This is a inventory management system that monitors product and 
+This is a inventory management for Lou-Geh-Manufacturing-Company
